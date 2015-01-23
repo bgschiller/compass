@@ -1,15 +1,15 @@
 # general configuration
-url: http://excentris.net
-baseurl: '/compass'
+url: http://brianschiller.com/compass/
+baseurl: http://brianschiller.com/
 
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/compass.png"
+  logo: "/images/bio-photo.jpg"
   # author will appear under the avatar (optional)
-  author: "Compass"
+  author: "Brian Schiller"
   # tagline will appear under the title (optional)
-  tagline: "The <a href='http://jekyllrb.com'>Jekyll</a> theme for your personal landing page"
+  tagline: "Programmer, Mathematician, Student, Teacher, Husband, Dog-lover, Cat-tolerator, Brother, Son, Friend (in no particular order)"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
