@@ -1,6 +1,6 @@
 # general configuration
-url: http://brianschiller.com/compass/
-baseurl: http://brianschiller.com/
+url: http://brianschiller.com/compass
+baseurl: '/compass'
 
 # compass configuration
 compass:
