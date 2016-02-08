@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bgschiller
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://brianschiller.com
+  * I am bgschiller (https://keybase.io/bgschiller) on keybase.
+  * I have a public key ASAX_KmZ-zLBMZUuVoVkT19ronpk7I-jxQ6_fbjQNO9NYwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012017fca999fb32c131952e5685644f5f6ba27a64ec8fa3c50ebf7db8d034ef4d630a",
+            "host": "keybase.io",
+            "kid": "012017fca999fb32c131952e5685644f5f6ba27a64ec8fa3c50ebf7db8d034ef4d630a",
+            "uid": "239ed8785283fa7fa95465224e323619",
+            "username": "bgschiller"
+        },
+        "service": {
+            "hostname": "brianschiller.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.9"
+    },
+    "ctime": 1454945422,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1454945387,
+        "hash": "cbfc2a99504b5826e785256bf282dd7f1b28c8dbbc0a987686e7ec094c0e180af86e0cf6761bd1bfe17298634f64e726ac18bc0d634dbf4efb9bba1964c78517",
+        "seqno": 376884
+    },
+    "prev": "5029d9b06ae184fdb7098282f961ce11c2d907e002b18359a8f3c55387a4b5bb",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgF/ypmfsywTGVLlaFZE9fa6J6ZOyPo8UOv3240DTvTWMKp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMTdmY2E5OTlmYjMyYzEzMTk1MmU1Njg1NjQ0ZjVmNmJhMjdhNjRlYzhmYTNjNTBlYmY3ZGI4ZDAzNGVmNGQ2MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTdmY2E5OTlmYjMyYzEzMTk1MmU1Njg1NjQ0ZjVmNmJhMjdhNjRlYzhmYTNjNTBlYmY3ZGI4ZDAzNGVmNGQ2MzBhIiwidWlkIjoiMjM5ZWQ4Nzg1MjgzZmE3ZmE5NTQ2NTIyNGUzMjM2MTkiLCJ1c2VybmFtZSI6ImJnc2NoaWxsZXIifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImJyaWFuc2NoaWxsZXIuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC45In0sImN0aW1lIjoxNDU0OTQ1NDIyLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NTQ5NDUzODcsImhhc2giOiJjYmZjMmE5OTUwNGI1ODI2ZTc4NTI1NmJmMjgyZGQ3ZjFiMjhjOGRiYmMwYTk4NzY4NmU3ZWMwOTRjMGUxODBhZjg2ZTBjZjY3NjFiZDFiZmUxNzI5ODYzNGY2NGU3MjZhYzE4YmMwZDYzNGRiZjRlZmI5YmJhMTk2NGM3ODUxNyIsInNlcW5vIjozNzY4ODR9LCJwcmV2IjoiNTAyOWQ5YjA2YWUxODRmZGI3MDk4MjgyZjk2MWNlMTFjMmQ5MDdlMDAyYjE4MzU5YThmM2M1NTM4N2E0YjViYiIsInNlcW5vIjo4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQFDFtYyi1fgsbJaS4l/pOs6IZf/E88Aqq3cAKP77FeJ2rMsJubhPVAssLJAQV6uqdcdCCzenjWTq5fqejcsqdwKoc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bgschiller
+
+==================================================================
+
+
