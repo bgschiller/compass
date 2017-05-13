@@ -19,7 +19,11 @@ main {
 /*** wrapper div for both header and main ***/
 .wrapper {
 	margin-top: 10%;
+	&.projects-wrapper {
+		margin-top: 5%;
+	}
 }
+
 
 /*** anchor tags ***/
 a:link,
@@ -117,6 +121,9 @@ footer {
 	.wrapper {
 		width: 480px;
 		margin: 10% auto 0 auto;
+		&.projects-wrapper {
+			margin-top: 5%;
+		}
 	}
 }
 
@@ -159,4 +166,19 @@ footer {
 
 .projects-list {
 	list-style: none;
+}
+
+.other-brians {
+	margin-top: 0;
+	margin-left: 10px;
+	p {
+		margin-top: 5px;
+		text-align: left;
+		font-style: italic;
+		font-size: 0.9em;
+		color: #8f8977;
+	}
+	a {
+		color: #c97f7b;
+	}
 }
